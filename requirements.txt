@@ -1,0 +1,9 @@
+openpyxl
+langchain
+langchain-groq
+flask
+gunicorn
+sqlalchemy
+psycopg2
+psycopg2-binary
+python-dotenv
